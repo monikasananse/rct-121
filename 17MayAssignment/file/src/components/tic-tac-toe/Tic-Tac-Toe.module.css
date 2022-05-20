@@ -1,0 +1,39 @@
+h1{
+    color:teal;
+}
+.container{
+    height:300px;
+    width:20%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin:auto;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat();
+}
+.divi{
+    height:50px;
+    width:50px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin:auto;
+    color:teal;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+.divi:hover{
+    border:1px solid teal;
+    color:red;
+}
+button{
+    height:60px;
+    width:100px;
+    background-color: teal;
+    border:none;
+    color:white;
+    margin-top:2%;
+    font-size: 18px;
+    border-radius: 50px;
+}
+h3{
+    color:teal;
+}
