@@ -1,0 +1,293 @@
+{
+  "posts": [
+    {
+      "id":1,
+      "imgURL":"https://i.pinimg.com/236x/54/f0/24/54f024bda29261a90113eb98d90d5cb6.jpg",
+      "rating":4.4,
+      "name":"URU Breakpark",
+      "title":"continental,pizza,Asian",
+      "cost":"600 Rs",
+      "paymentMethods":{
+        "data":"Accepts card payments only",
+        "cash":false,
+        "card":true,
+        "upi":false
+      }
+      
+  },
+  {
+      "id":2,
+      "imgURL":"https://i.pinimg.com/236x/99/14/2d/99142d53c1fd23d43c182eb025e957a1.jpg",
+      "rating":3.4,
+      "name":"Kolkata Famous Restrau",
+      "title":"continental,pizza,Asian",
+      "cost":"600 Rs",
+      "paymentMethods":{
+        "data":"Accepts cash payments only",
+        "cash":true,
+        "card":false,
+        "upi":false
+      }
+      
+  },
+  {
+      "id":3,
+      "imgURL":"https://i.pinimg.com/236x/db/48/be/db48be4ab0309897a2aae03e11e5d839.jpg",
+      "rating":3.4,
+      "name":"Punjab Sardar JI",
+      "title":"continental,pizza,Asian",
+      "cost":"600 Rs",
+      "paymentMethods":{
+        "data":"Accepts card & cod payments only",
+        "cash":true,
+        "card":true,
+        "upi":false
+      }
+      
+  },
+  {
+      "id":4,
+      "imgURL":"https://i.pinimg.com/236x/d0/d7/7d/d0d77dd8364358eb102590c6fa9f0e30.jpg",
+      "rating":1.2,
+      "name":"Anand Hotel",
+      "title":"continental,pizza,Asian",
+      "cost":"600 Rs",
+      "paymentMethods":{
+        "data":"Accepts card & cod payments only",
+        "cash":true,
+        "card":true,
+        "upi":false
+      }
+      
+  },
+  {
+      "id":5,
+      "imgURL":"https://i.pinimg.com/236x/b5/72/0c/b5720c95e51efc15f553803c14ca527b.jpg",
+      "rating":1,
+      "name":"Hotel center point",
+      "title":"continental,pizza,Asian",
+      "cost":"550 Rs",
+      "paymentMethods":{
+        "data":"Accepts cash payments only",
+        "cash":true,
+        "card":false,
+        "upi":false
+      }
+      
+  },
+  {
+      "id":6,
+      "imgURL":"https://i.pinimg.com/236x/bf/5a/39/bf5a3925721c847f420e2b64f7d2bd87.jpg",
+      "rating":1.5,
+      "name":"Matoshree hotel",
+      "title":"Anda kari",
+      "cost":"300 Rs",
+      "paymentMethods":{
+        "data":"Accepts card payments only",
+        "cash":false,
+        "card":true,
+        "upi":false
+      }
+      
+  },
+  {
+      "id":7,
+      "imgURL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeLiX-FiAc5tRjC7bnoZe5DZU_eCKNM-Dh5w&usqp=CAU",
+      "rating":1.5,
+      "name":"Anand sagar Hotel",
+      "title":"Paneer Bhurji",
+      "cost":"800 Rs",
+      "paymentMethods":{
+        "data":"Accepts cash card & upi payments only",
+        "cash":true,
+        "card":true,
+        "upi":true
+      }
+      
+  },
+  {
+      "id":8,
+      "imgURL":"https://i.pinimg.com/236x/e9/5f/92/e95f92afde884723cd4c6b0bb88e2fa0.jpg",
+      "rating":3.2,
+      "name":"kishore garden",
+      "title":"Bengan Potato Indian recipe",
+      "cost":"100 Rs",
+      "paymentMethods":{
+        "data":"Accepts upi payments only",
+        "cash":false,
+        "card":false,
+        "upi":true
+      }
+      
+  },
+  {
+      "id":9,
+      "imgURL":"https://i.pinimg.com/236x/48/b3/23/48b32319156cfb9cf02801e48df4ac6b.jpg",
+      "rating":2.4,
+      "name":"Namaste India Hotel",
+      "title":"Indian Dish ",
+      "cost":"400 Rs",
+      "paymentMethods":{
+        "data":"Accepts cash card & upi payments only",
+        "cash":true,
+        "card":true,
+        "upi":true
+      }
+      
+  },
+  {
+      "id":10,
+      "imgURL":"https://i.pinimg.com/236x/d6/ad/a2/d6ada2b22ee6bdfe3cd2dda65e9a548e.jpg",
+      "rating":2.5,
+      "name":"Vijaya Hotel",
+      "title":"Indian famous Rice",
+      "cost":"530 Rs",
+      "paymentMethods":{
+        "data":"Accepts upi payments only",
+        "cash":false,
+        "card":false,
+        "upi":true
+      }
+      
+  },
+  {
+      "id":11,
+      "imgURL":"https://i.pinimg.com/236x/aa/56/09/aa56095048b9abda278f4ea712a75bcc.jpg",
+      "rating":2.5,
+      "name":"Kundan sweets",
+      "title":"Indian Lord Ganesha sweets",
+      "cost":"300 Rs",
+      "paymentMethods":{
+        "data":"Accepts cash payments only",
+        "cash":true,
+        "card":false,
+        "upi":false
+      }
+      
+  },
+  {
+      "id":12,
+      "imgURL":"https://i.pinimg.com/236x/b9/6b/2f/b96b2ff92862788ab67189525dd3767c.jpg",
+      "rating":2.4,
+      "name":"Kamal Hotel",
+      "title":"Asian chola bhtore",
+      "cost":"400 Rs"
+      
+  },
+  {
+      "id":13,
+      "imgURL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVZYkDEXc6VCSHGNTa13lp0D_oY5rF35LiRA&usqp=CAU",
+      "rating":2.2,
+      "name":"Utsav Hotel",
+      "title":"Masala Bhindi stuff",
+      "cost":"200 Rs"
+      
+  },
+  {
+      "id":14,
+      "imgURL":"https://i.pinimg.com/236x/99/f8/42/99f842811a95d53221ffbf19a7af8ea4.jpg",
+      "rating":3.1,
+      "name":"Click Cafe Garden",
+      "title":"Bharwa Baingan",
+      "cost":"200 Rs",
+      "paymentMethods":{
+        "data":"Accepts cash payments only",
+        "cash":true,
+        "card":false,
+        "upi":false
+      }
+      
+  },
+  {
+      "id":15,
+      "imgURL":"https://i.pinimg.com/236x/9a/77/26/9a7726b77f531bb2fa5c3d72ed120059.jpg",
+      "rating":3.4,
+      "name":"Rutuja Hotel",
+      "title":"Chicken Biryani",
+      "cost":"400 Rs",
+      "paymentMethods":{
+        "data":"Accepts cash,card & upi payments only",
+        "cash":true,
+        "card":true,
+        "upi":true
+      }
+      
+  },
+  {
+      "id":16,
+      "imgURL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReEa46MVZO3kLjPXtyAZBFoqnEtJh-BMVrUA&usqp=CAU",
+      "rating":3.2,
+      "name":"Rohini Nakshtra",
+      "title":"Methi Paneer",
+      "cost":"300 Rs",
+      "paymentMethods":{
+        "data":"Accepts cash,upi payments only",
+        "cash":true,
+        "card":false,
+        "upi":true
+      }
+      
+  },
+  {
+      "id":17,
+      "imgURL":"https://i.pinimg.com/236x/b5/17/93/b517939cc18bef5e56d87bb40ec30b9c.jpg",
+      "rating":3.3,
+      "name":"Diwali Hardin Hotel",
+      "title":"Dal Makhni",
+      "cost":"300 Rs",
+      "paymentMethods":{
+        "data":"Accepts cash,upi payments only",
+        "cash":true,
+        "card":false,
+        "upi":true
+      }
+      
+  },
+  {
+      "id":18,
+      "imgURL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsKsRW9t7YQYmpFdyeJ6SPDedh4W4-blB_jA&usqp=CAU",
+      "rating":4.5,
+      "name":"Apna Hotel",
+      "title":"Mashroom Masala",
+      "cost":"500 Rs",
+      "paymentMethods":{
+        "data":"Accepts cash,upi,card payments only",
+        "cash":true,
+        "card":true,
+        "upi":true
+      }
+      
+  },
+  {
+      "id":19,
+      "imgURL":"https://i.pinimg.com/236x/e9/c3/cb/e9c3cb5aaecaa864dafa4f1e5532f49d.jpg",
+      "rating":4.4,
+      "name":"Hotel for Everyone",
+      "title":"Indian Seasons Chana",
+      "cost":"100 Rs",
+      "paymentMethods":{
+        "data":"Accepts cash,upi,card payments only",
+        "cash":true,
+        "card":true,
+        "upi":true
+      }
+      
+  },
+  {
+      "id":20,
+      "imgURL":"https://i.pinimg.com/236x/af/89/a0/af89a0644ea4e3158f3efb762903f9fd.jpg",
+      "rating":4.2,
+      "name":"Indian Masti Hotel",
+      "title":"Indian Mirch Bhajiya",
+      "cost":"320 Rs",
+      "paymentMethods":{
+        "data":"Accepts card,cod payments only",
+        "cash":true,
+        "card":true,
+        "upi":false
+      }
+      
+  }
+ 
+  ]
+}
