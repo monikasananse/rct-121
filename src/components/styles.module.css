@@ -1,0 +1,44 @@
+.main{
+    height:30px;
+    width:100%;
+    display: flex;
+    justify-content: space-around;  
+    color:white;
+    background-color: black;
+}
+.but{
+    background-color:red;
+    color:yellow;
+    border-radius: 10px;
+    border:none;
+
+}
+.add{
+    height:50px;
+    width: 100px;
+    background-color: teal;
+    color:white;
+    border:none;
+    border-radius: 10px;
+    margin-top: 2%;
+}
+.footer{
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    color:white;
+}
+.main2{
+    height:30px;
+    width:100%;
+    display: flex;
+    justify-content: space-around;  
+    color:white;
+    background-color:teal;
+}
+.footer2{
+    height: 50px;
+    width: 100%;
+    background-color: teal;
+    color:white;
+}
