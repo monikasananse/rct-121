@@ -10,7 +10,7 @@ function App() {
     <div>
      
       <Image1/>
-      {<Image2/>}
+      <Image2/>
     {/* <Layout/> */}
     </div>
   )
