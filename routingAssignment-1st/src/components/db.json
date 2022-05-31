@@ -1,0 +1,74 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"PETITE MELROSE",
+            "imgURL":"https://www.danielwellington.com/product-images/Petite-28-Melrose-RG-JUNxdy82.png?ecom2=true&format=jpg&canvas=1:1&width=525&quality=60&bg-color=FFFFFF",
+            "price":"19999",
+            "brand":"CLASSIC"
+        },
+        {
+            "id":2,
+            "name":"STAINLES STEEL WATCH",
+            "imgURL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRztULTenkdDjweJ1n87i4Pd0NWZYKKfa4UhftPpJRBHUO6hWNNtHPKV-ohcYP9YcPcgdc&usqp=CAU",
+            "price":"20000",
+            "brand":"QLAYS"
+        },
+        {
+            "id":3,
+            "name":"ROSE GOLD",
+            "imgURL":"https://www.danielwellington.com/in/dw-accessories-unisex-classic-cuff-rose-gold-rose-gold-small/",
+            "price":"5000",
+            "brand":"CLASSIC"
+        },
+        {
+            "id":4,
+            "name":"ROODD WATCH",
+            "imgURL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdfI5-OPLen3afZtt90ctYGUVW66cJC1h7FA&usqp=CAU",
+            "price":"5000",
+            "brand":"RODD"
+        },
+        {
+            "id":5,
+            "name":"OLEVS WATCH",
+            "imgURL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRndrXcCGOBvxHzgK5-87YEw8i618Q3uZCpSg&usqp=CAU",
+            "price":"8000",
+            "brand":"OLEVS"
+        },
+        {
+            "id":6,
+            "name":"VINTAGE FLOWER",
+            "imgURL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTrLKHtljLdtJUgKTJiViTWs7t4W04d-h_ig&usqp=CAU",
+            "price":"4000",
+            "brand":"VINTAGE"
+        },
+        {
+            "id":7,
+            "name":"TRIANGLE WATCH",
+            "imgURL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCqiosgBwtuuh9wRsF-waIJFlCxoXXjd6Fyg&usqp=CAU",
+            "price":"9000",
+            "brand":"DIAL GOLD"
+        },
+        {
+            "id":8,
+            "name":"FELIX LADIES WATCH",
+            "imgURL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkFtDOoOt0mj9rvIC9gH73q7TFGDr_vivyOQ&usqp=CAU",
+            "price":"4000",
+            "brand":"FELIX"
+        },
+        {
+            "id":9,
+            "name":"FESTIVE WATCH",
+            "imgURL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRchUOC5jA1QZz20wh91grLt0POqf0lhfz1QA&usqp=CAU",
+            "price":"3000",
+            "brand":"FESTIVE GIRL"
+        },
+        {
+            "id":10,
+            "name":"TITAN ROSE GOLD",
+            "imgURL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7MGo_Sjvi87JuggjxidtWE4B3beke9hkxKQ&usqp=CAU",
+            "price":"10000",
+            "brand":"TITAN"
+        }
+    ]
+}
